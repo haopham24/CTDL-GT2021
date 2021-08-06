@@ -6,8 +6,8 @@ Input:
 Dòng đầu tiên đưa vào số lượng bộ test T.
 Những dòng kế tiếp đưa vào các bộ test. Mỗi bộ test gồm hai phần: phần thứ nhất đưa vào hai số N, W tương ứng với số lượng đồ vật và trọng lượng túi; phần thứ 2 đưa vào 2*N số tương ứng với trọng lượng đồ vật A[i] và giá trị sử dụng C[i] của mỗi đồ vật.
 T, N, W, A[i], C[i]  thỏa mãn ràng buộc: 1≤T≤100;  1≤N, W≤100; 1≤A[i], C[i]≤100.
-Output:
 
+Output:
 Đưa ra kết quả mỗi test theo từng dòng, in ra 2 chữ số sau dấu phảy.
 
 Ví dụ:
@@ -15,14 +15,13 @@ Input:
 2
 3 50
 60 10
-
 100 20
-
 120 30
+
 2 50
 60 10
-
 100 20
+
 Output:
 240.00
 160.00
